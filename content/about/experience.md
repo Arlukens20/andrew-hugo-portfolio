@@ -32,6 +32,20 @@ experience:
     description: |2-
         Responsibilities include:
         
+        * Performing Regression Testing
+        * Automating End to End Testing
+        * Estimating QA effort for stories.
+
+  - title: SDET
+    company: Infosys ltd.
+    company_url: ''
+    company_logo: org-gc
+    location: Indianapolis, In (Remote)
+    date_start: '2020-12-28'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
         * Analysing
         * Modelling
         * Deploying

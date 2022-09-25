@@ -27,8 +27,8 @@ experience:
     company_url: 'https://www.wabash.edu/'
     company_logo: org-x
     location: Crawfordsville, IN
-    date_start: '2016-08-17'
-    date_end: '2020-05-21'
+    date_start: '2016-08-01'
+    date_end: '2020-05-01'
     description: |2-
         * Econonomics Major w/ Math and Computer Science Minors
         * Student Athlete - Cross Country and Track
