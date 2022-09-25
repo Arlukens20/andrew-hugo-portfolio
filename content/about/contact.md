@@ -24,16 +24,15 @@ content:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
-
-email: arlukens20@gmail.com
-  phone: 317-775-2265
-  address:
-    street: 1150 Spruce Street
-    city: Indianapolis
-    region: IN
-    postcode: '46203'
-    country: United States
-    country_code: US
+  email: arlukens20@gmail.com
+    phone: 317-775-2265
+    address:
+      street: 1150 Spruce Street
+      city: Indianapolis
+      region: IN
+      postcode: '46203'
+      country: United States
+      country_code: US
   # coordinates:
   #   latitude: '37.4275'
   #   longitude: '-122.1697'
@@ -51,8 +50,6 @@ email: arlukens20@gmail.com
       icon_pack: fas
       name: Zoom Me
       link: 'https://zoom.com'
-
-
 
 design:
   columns: '1'
