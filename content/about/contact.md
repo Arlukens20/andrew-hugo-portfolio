@@ -25,8 +25,8 @@ content:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
 
-  # email: arlukens20@gmail.com
-  #   phone: 317-775-2265
+  email: arlukens20@gmail.com
+  phone: 317-775-2265
   #   address:
   #     street: 1150 Spruce Street
   #     city: Indianapolis

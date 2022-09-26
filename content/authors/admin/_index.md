@@ -66,6 +66,6 @@ social:
 email: "arlukens20@gmail.com"
 ---
 
-Andrew Lukens Summary here?
+Young professional with experience working on an agile project with a leading pharmacy benefit manager. Utilized technologies such as Java, SQL, and Selenium to build automated test case that mimicked Pega development work. Assisted and provided QA perspective through all aspects of the SDLC from planning, testing and Deployment. Looking to switch into a development-oriented role. 
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
