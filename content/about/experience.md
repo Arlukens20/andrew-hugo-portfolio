@@ -25,7 +25,7 @@ experience:
   - title: SDET
     company: Infosys ltd.
     company_url: ''
-    company_logo: Infosys.jpg
+    company_logo: Infosys
     location: Indianapolis, In (Remote)
     date_start: '2020-12-28'
     date_end: ''
