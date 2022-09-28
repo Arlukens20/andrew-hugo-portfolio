@@ -25,7 +25,7 @@ experience:
   - title: SDET
     company: Infosys ltd.
     company_url: ''
-    company_logo: org-gc
+    company_logo: Infosys.jpg
     location: Indianapolis, In (Remote)
     date_start: '2020-12-28'
     date_end: ''
@@ -36,28 +36,19 @@ experience:
         * Automating End to End Testing
         * Estimating QA effort for stories.
 
-  - title: SDET
-    company: Infosys ltd.
+  - title: Full Stack Software Developer
+    company: Revature
     company_url: ''
     company_logo: org-gc
     location: Indianapolis, In (Remote)
-    date_start: '2020-12-28'
-    date_end: ''
+    date_start: '2020-08-15'
+    date_end: '2020-12-27'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
-
-  # - title: Professor of Semiconductor Physics
-  #   company: University X
-  #   company_url: ''
-  #   company_logo: org-x
-  #   location: California
-  #   date_start: '2016-01-01'
-  #   date_end: '2020-12-31'
-  #   description: Taught electronic engineering and researched semiconductor physics.
+        * Training 
+        * Building Projects
+        * Interview Prep
 
 design:
   columns: '1'
