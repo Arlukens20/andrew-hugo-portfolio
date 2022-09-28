@@ -25,7 +25,7 @@ experience:
   - title: Bachelors of Arts
     company: Wabash College
     company_url: 'https://www.wabash.edu/'
-    company_logo: wabash-college.svg
+    company_logo: wabash-college
     location: Crawfordsville, IN
     date_start: '2016-08-01'
     date_end: '2020-05-01'
