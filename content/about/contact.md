@@ -42,15 +42,15 @@ content:
   # office_hours:
   #   - 'Monday 10:00 to 13:00'
   #   - 'Wednesday 09:00 to 10:00'
-  contact_links:
-    - icon: linkedin
-      icon_pack: fab
-      name: link in
-      link: 'www.linkedin.com/in/andrewlukens'
-    - icon: github
-      icon_pack: fab
-      name: git
-      link: 'https://github.com/Arlukens20'
+  # contact_links:
+  #   - icon: linkedin
+  #     icon_pack: fab
+  #     name: link in
+  #     link: 'www.linkedin.com/in/andrewlukens'
+  #   - icon: github
+  #     icon_pack: fab
+  #     name: git
+  #     link: 'https://github.com/Arlukens20'
 
 design:
   columns: '1'
