@@ -32,24 +32,24 @@ experience:
     description: |2-
         Responsibilities include:
     
-        •	Assigned to project with leading pharmacy benefit manager. Provided testing services to agile Pega development team.
-        •	Conducted periodical regression tests with java-based automation test framework utilized Selenium to automate work through Pega Application.
-        •	Updated framework to include new features such as SQL Parallel Testing capabilities for DB comparison. 
-        •	Provided QA estimates, Tracked Bugs, and reported QA metrics to leadership.
-        •	Participated in regular agile ceremonies such as daily stand ups, Sprint Planning and retrospectives.
+        * Assigned to project with leading pharmacy benefit manager. Provided testing services to agile Pega development team.
+        * Conducted periodical regression tests with java-based automation test framework utilized Selenium to automate work through Pega Application.
+        * Updated framework to include new features such as SQL Parallel Testing capabilities for DB comparison. 
+        * Provided QA estimates, Tracked Bugs, and reported QA metrics to leadership.
+        * Participated in regular agile ceremonies such as daily stand ups, Sprint Planning and retrospectives.
 
   - title: Full Stack Software Developer
     company: Revature
     company_url: ''
-    company_logo: org-gc
+    company_logo: revature
     location: Indianapolis, In (Remote)
     date_start: '2020-08-15'
     date_end: '2020-12-27'
     description: |2-
         Responsibilities include:
         
-        •	Attended 10-week bootcamp to upskill and learn new technologies such as Java, JavaScript, SQL, Angular and Spring framework. 
-        •	Completed various projects to prepare to work in an individual and team setting.
+        * Attended 10-week bootcamp to upskill and learn new technologies such as Java, JavaScript, SQL, Angular and Spring framework. 
+        * Completed various projects to prepare to work in an individual and team setting.
 
 
 design:

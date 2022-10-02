@@ -10,7 +10,7 @@ headless: true  # This file represents a page section.
 feature:
   - icon: square-code
     icon_pack: fab
-    name: Python
+    name: python
     description: 90%
   - icon: chart-line
     icon_pack: fas
@@ -20,6 +20,10 @@ feature:
     icon_pack: fas
     name: Photography
     description: 10%
+  - icon: java
+    icon_pack: fab
+    name: Java
+    description: 80%
 
   # Example using an emoji as an icon.
 #   - icon: '😄'

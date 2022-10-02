@@ -18,7 +18,7 @@ role: 'SDET'
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in Economics, outer space, artifial intelligence and Futurism.
+bio: I am interested in all things economics, space, artifial intelligence and Futurism related. Always loooking for my next project.
 
 interests:
 - Artificial Intelligence
