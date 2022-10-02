@@ -27,6 +27,7 @@ content:
 
   email: arlukens20@gmail.com
   phone: 317-775-2265
+  appointment_url: 'https://calendly.com/arlukens/30min'
   #   address:
   #     street: 1150 Spruce Street
   #     city: Indianapolis
@@ -41,16 +42,15 @@ content:
   # office_hours:
   #   - 'Monday 10:00 to 13:00'
   #   - 'Wednesday 09:00 to 10:00'
-  # appointment_url: 'https://calendly.com'
-  # contact_links:
-  #   - icon: twitter
-  #     icon_pack: fab
-  #     name: DM Me
-  #     link: 'https://twitter.com/Twitter'
-  #   - icon: video
-  #     icon_pack: fas
-  #     name: Zoom Me
-  #     link: 'https://zoom.com'
+  contact_links:
+    - icon: linkedin
+      icon_pack: fab
+      name: link in
+      link: 'www.linkedin.com/in/andrewlukens'
+    - icon: github
+      icon_pack: fab
+      name: git
+      link: 'https://github.com/Arlukens20'
 
 design:
   columns: '1'

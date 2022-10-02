@@ -31,10 +31,12 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        
-        * Performing Regression Testing
-        * Automating End to End Testing
-        * Estimating QA effort for stories.
+    
+        •	Assigned to project with leading pharmacy benefit manager. Provided testing services to agile Pega development team.
+        •	Conducted periodical regression tests with java-based automation test framework utilized Selenium to automate work through Pega Application.
+        •	Updated framework to include new features such as SQL Parallel Testing capabilities for DB comparison. 
+        •	Provided QA estimates, Tracked Bugs, and reported QA metrics to leadership.
+        •	Participated in regular agile ceremonies such as daily stand ups, Sprint Planning and retrospectives.
 
   - title: Full Stack Software Developer
     company: Revature
@@ -46,9 +48,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Training 
-        * Building Projects
-        * Interview Prep
+        •	Attended 10-week bootcamp to upskill and learn new technologies such as Java, JavaScript, SQL, Angular and Spring framework. 
+        •	Completed various projects to prepare to work in an individual and team setting.
+
 
 design:
   columns: '1'
