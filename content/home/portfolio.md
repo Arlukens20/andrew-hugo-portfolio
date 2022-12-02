@@ -32,6 +32,8 @@ content:
       tag: ALGO
     - name: C++
       tag: C++
+    - name: JavaScript
+      tag: javascript
     # - name: NLP
     #   tag: NLP
 

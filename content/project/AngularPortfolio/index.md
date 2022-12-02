@@ -1,8 +1,8 @@
 ---
 title: Angular Portfolio Tracker
-summary: Write about your project here...
+summary: Angular Application built to assist in Stock Research and Portfolio tracking.
 tags:
-  - CV
+  - javascript
 date: 2022-01-01
 external_link: https://github.com/Arlukens20/Angular-Portfolio-Assistant
 ---

@@ -25,7 +25,7 @@ feature:
     name: Java
     description: 80%
   - icon: database
-    icon_pack: fab
+    icon_pack: fas
     name: SQL
     description: 80%
 
