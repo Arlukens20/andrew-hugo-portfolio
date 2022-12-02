@@ -6,7 +6,7 @@ title: Andrew Lukens
 superuser: true
 
 # Role/position
-role: 'SDET'
+role: 'Software Developer'
 
 # Status emoji
 # status:
@@ -14,7 +14,7 @@ role: 'SDET'
 
 # Organizations/Affiliations
 #organizations:
-#- name: 腾讯
+#- name: 
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -57,7 +57,7 @@ social:
     link: https://github.com/arlukens20
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/andrewlukens
+    link: https://linkedin.com/in/andrewlukens
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 # Add/remove as many `feature` blocks below as you like.
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - icon: square-code
+  - icon: python
     icon_pack: fab
     name: python
     description: 90%
@@ -23,6 +23,10 @@ feature:
   - icon: java
     icon_pack: fab
     name: Java
+    description: 80%
+  - icon: database
+    icon_pack: fab
+    name: SQL
     description: 80%
 
   # Example using an emoji as an icon.

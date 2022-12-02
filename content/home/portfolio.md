@@ -30,8 +30,8 @@ content:
       tag: '*'
     - name: Algorithms
       tag: ALGO
-    # - name: Computer Vision
-    #   tag: CV
+    - name: C++
+      tag: C++
     # - name: NLP
     #   tag: NLP
 
